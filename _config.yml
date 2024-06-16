@@ -14,12 +14,12 @@ timezone: Europe/Berlin
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: Johannes Bähr # the main title
 
-tagline: Articles about Malware and stuff
+tagline: Articles about stuff I am interested in
 
 description: >- # used by seo meta and the atom feed
-  Articles about malware
+  Articles about malware, programming, reverse engineering
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
