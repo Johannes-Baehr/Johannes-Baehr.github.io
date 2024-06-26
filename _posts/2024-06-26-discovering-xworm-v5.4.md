@@ -1,6 +1,6 @@
 ---
 title: Discovering XWorm V5.4 in malicious Github repository 
-date: 2024-06-26 22:30:00 
+date: 2024-06-26 22:30:00 +0200
 categories: [malware, xworm]
 tags: [malware xworm worm obfuscated github]     # TAG names should always be lowercase
 ---
