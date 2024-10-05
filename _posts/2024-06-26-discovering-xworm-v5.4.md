@@ -105,4 +105,4 @@ For example, there is a huge switch statement, which is probably there for incom
 
 Although, I do not think these are all commands that can be executed by an attacker, it would be quite interesting to look at just these "base functionalities".
 There are also references to load plugins and other files from the web, but I won't cover any more features here in this post, but I'm planning to do so in another. 
-And lastly, if you are interested in any of the files, they are all in this GitHub repository.
+And lastly, if you are interested in any of the files, they are all in [the GitHub repository](/assets/RoPrebfdgrs/files/RoPredictor_(X-Worm)_PW_"infected".zip).
